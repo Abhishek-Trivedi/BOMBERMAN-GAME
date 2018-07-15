@@ -11,7 +11,7 @@ from enemy import *
 
 class GameBoard():
 		
-	#This class has a function to build the Gameboard
+	#This class has a function to build the Gameboard ckdsjvdkjvkjvdsv vndsjvndvnldvdsl kjvndjvndjlv dl
 
 	def build(self,Board):
 		for i in range(40):
